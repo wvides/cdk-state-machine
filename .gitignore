@@ -1,0 +1,5 @@
+.idea
+.env
+cdk_state_machine.egg-info
+cdk.out
+**__pycache__
